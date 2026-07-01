@@ -1,0 +1,1 @@
+export default function Terms(){return <main className="wrap"><div className="card"><h1>Terms</h1><p className="sub">NEWMB.chat은 엔터테인먼트 목적의 비공식 패러디 서비스입니다. 생성된 답변은 실제 조언, 실제 발언, 공식 입장이 아닙니다.</p><a href="/">← 홈</a></div></main>}

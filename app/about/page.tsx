@@ -1,0 +1,1 @@
+export default function About(){return <main className="wrap"><div className="card"><h1>About NEWMB.chat</h1><p className="sub">NEWMB.chat은 축구 감독 인터뷰 문법과 한국 인터넷 밈에서 영감을 받은 비공식 패러디 답변 생성기입니다.</p><p className="notice">실존 인물의 공식 발언이나 공식 입장을 제공하지 않습니다.</p><a href="/">← 홈</a></div></main>}

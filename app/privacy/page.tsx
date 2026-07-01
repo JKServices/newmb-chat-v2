@@ -1,0 +1,1 @@
+export default function Privacy(){return <main className="wrap"><div className="card"><h1>Privacy</h1><p className="sub">이 MVP는 로그인 없이 동작하며, 질문을 데이터베이스에 저장하지 않습니다. OpenAI API 키는 서버 환경변수로만 사용됩니다.</p><p className="notice">Google Analytics 또는 AdSense를 연결하면 해당 서비스의 정책이 적용될 수 있습니다.</p><a href="/">← 홈</a></div></main>}
